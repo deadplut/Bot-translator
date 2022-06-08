@@ -1,1 +1,1 @@
-tok = "5467867583:AAHFjWsEAq0jpGSEtSBKArREKkOCoZqBlbQ"
+tok = "Ur_token"
